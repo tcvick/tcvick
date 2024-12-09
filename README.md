@@ -1,5 +1,5 @@
 <h1 align="left">Hi 🙋‍♂️, I'm Timothy "Clark" Vick!</h1>
-<h3 align="left">A former Alabama country boy 🤠 now iced coffee ❄️☕ eficiando in Seattle, WA. Full time data analyst 📊 with a passion for programming 👨🏼‍💻 pursuing a computer science degree 📜. Proud contributer contributer to 🌈 LGBTQ+ 🏳️‍🌈 representation in STEM 🧪.</h3>
+<h3 align="left">A former Alabama country boy 🤠 now iced coffee ❄️☕ eficiando in Seattle, WA. Full-time data analyst 📊 with a passion for programming 👨🏼‍💻 pursuing a computer science degree 📜. Proud contributor to 🌈 LGBTQ+ 🏳️‍🌈 representation in STEM 🧪.</h3>
 
 - 🌱 I’m currently learning **Python for advanced data analysis and automation, SQL for efficient database querying and management, and Java to strengthen my object-oriented programming skills and expand into back-end development.**
 
